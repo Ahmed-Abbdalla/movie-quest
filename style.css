@@ -278,13 +278,13 @@ header .search input:focus {
 
   header .search input {
     font-family: inherit;
-    font-size: 0.9rem;
-    color: #000000;
-    padding: 0.5rem 1rem;
-    background-color: transparent;
-    border: 1px solid #fff8f8de;
-    border-radius: 5px;
-    text-align: center;
+        font-size: 0.9rem;
+        color: #ffffff;
+        padding: 0.5rem 1rem;
+        background-color: transparent;
+        border: 1px solid #fff8f8de;
+        border-radius: 23px;
+        text-align: center;
   }
 
   .movie-card {
