@@ -246,6 +246,8 @@ header .search input:focus {
 
   #search {
     width: 100%;
+        border-radius: 20px;
+        color: #fff;
   }
 
   #search::placeholder {
