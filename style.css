@@ -117,7 +117,7 @@ header .logo {
 
 @font-face {
   font-family: "cartoon"; /* Name you will use in CSS */
-  src: url("/fonts/From\ Cartoon\ Blocks.ttf") format("truetype"); /* Path to your font file */
+  src: url("/fonts/Cartoon.ttf") format("truetype"); /* Path to your font file */
 }
 
 header .logo h1 {
